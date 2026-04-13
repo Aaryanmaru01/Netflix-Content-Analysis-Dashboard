@@ -44,7 +44,7 @@ An interactive dashboard is created using Power BI to present the data visually.
 ---
 
 ## 🎨 Dashboard Preview
-- Link-
+- Link- https://github.com/Aaryanmaru01/Netflix-Content-Analysis-Dashboard/blob/main/Netflix.png
 
 ---
 
